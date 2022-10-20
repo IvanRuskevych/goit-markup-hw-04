@@ -109,6 +109,11 @@ img {
 
   font-weight: 500;
 }
+.header-contacts a {
+  display: flex;
+  align-items: center;
+}
+
 .header-contacts .icon {
   margin-right: 10px;
   fill: currentColor;
